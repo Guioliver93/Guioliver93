@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá! Eu sou o Guilhemre Oliveira
 <div align="center">
   <a href="https://github.com/Guioliver93">
